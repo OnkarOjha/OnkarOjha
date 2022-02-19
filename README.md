@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnkarOjha?tab=repositories](https://github.com/OnkarOjha?tab=repositories)
 
-- 💬 Ask me about **HTML , CSS , PYTHON , C++ , OOPS , DSA , Graphic designing**
+- 💬 Ask me about **HTML , CSS, JS , PYTHON , C++ , OOPS , DSA , Graphic designing**
 
 - 📫 How to reach me **onkarojha17082001@gmail.com**
 
