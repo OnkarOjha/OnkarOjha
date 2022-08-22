@@ -22,6 +22,9 @@
 
 - ⚡ Fun fact **I admire IronMan and Marvel Cinematic Universe**
 
+<a href="https://app.daily.dev/OnkarOjha"><img align = "right" width="350" src="https://api.daily.dev/devcards/aa78b629a5904502b6769c582a1d68a2.png?r=1g9" width="400" alt="Onkar Ojha's Dev Card"/></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onkarojha4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onkarojha4" height="30" width="40" /></a>
