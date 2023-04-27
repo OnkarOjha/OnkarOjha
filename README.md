@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/onkarojha4" target="blank"><img src="https://img.shields.io/twitter/follow/onkarojha4?logo=twitter&style=for-the-badge" alt="onkarojha4" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack Development](https://onkar17-portfolio.netlify.app/)
+- 🔭 I’m currently working on [Back End Development](https://onkar17-portfolio.netlify.app/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **GoLang**
 
-- 👯 I’m looking to collaborate on [DSA](https://leetcode.com/onkarojha/)
+- 👯 I’m looking to collaborate on **Backend Dev** [DSA](https://leetcode.com/onkarojha/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnkarOjha?tab=repositories](https://github.com/OnkarOjha?tab=repositories)
 
-- 💬 Ask me about **Full Stack Development , Graphic Designing and Freelancing**
+- 💬 Ask me about **BackEnd Development , Graphic Designing and Freelancing**
 
 - 📫 How to reach me **onkarojha17082001@gmail.com**
 
