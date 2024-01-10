@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkar Ojha</h1>
-<h3 align="center">A Geeky Ambivert</h3>
+<h3 align="center">SWE @JIO</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarojha&label=Profile%20views&color=0e75b6&style=flat" alt="onkarojha" /> </p>
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [Back End Development](https://onkar17-portfolio.netlify.app/)
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Backend Dev** [DSA](https://leetcode.com/onkarojha/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnkarOjha?tab=repositories](https://github.com/OnkarOjha?tab=repositories)
 
-- 💬 Ask me about **BackEnd Development , Graphic Designing and Freelancing**
+- 💬 Ask me about **BackEnd Development , DevOps and Freelancing**
 
 - 📫 How to reach me **onkarojha17082001@gmail.com**
 
